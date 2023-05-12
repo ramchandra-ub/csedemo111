@@ -1,0 +1,13 @@
+{
+    "assetName": "sample-name",
+    "description": "sampe-desc",
+    "topics": [
+        "ens-sports",
+        "sample-topic1",
+        "ens-asset",
+        "ens-asset"
+    ],
+    "associations": [
+        "github.com/test_repo"
+    ]
+}
